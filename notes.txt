@@ -1,0 +1,49 @@
+Reading dan writing data from multi datasource
+- MySQL
+- XML
+- CSV
+- JSON
+- Web (html)
+- Excel
+- Ms Access
+
+Deplyr
+ - filtering data
+
+Tidyr
+ - clean data
+
+Knitr
+ - reporting
+
+Basic
+------
+if 
+loop
+function
+
+Vector
+Matrix
+List
+Data Table
+Factor
+
+
+
+http://r-project.org
+- R
+- RStudio (IDE / editor)
+
+
+visualization
+- Tableau, 
+- Micro Strategy (IBM)
+- Power BI (Microsoft)
+
+R
+Python Panda
+Julia
+Matlab
+SPSS
+
+Data Science
