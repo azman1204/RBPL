@@ -22,6 +22,8 @@ d[50]
 
 f <- seq(0, to=100,by = 2) # ctl + space = help popup
 f <- seq(to=100, from=1, by=2)
-f [20]
+f[20]
 f[20:25]
+f[c(1,5,8)]
+f[c(T,F,F,T)]
 ??seq()
