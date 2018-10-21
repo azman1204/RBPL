@@ -1,3 +1,31 @@
+20.10.2018
+-------------
+- Date & Time
+- apply(), taapply(), mapply()
+
+Read & write
+- [x] CSV
+- [x] Excel
+- [x] Text File / web
+- XML
+- [x] MySQL
+- Access
+- JSON
+- [x] RDS - R Data Struc.
+
+Packages
+- [x] dplyr
+- tidyr
+- [x] stringr
+- knitr / markdown
+- ggplot2
+- shiny
+
+Programming Basic
+- if / else
+- while, for
+- function
+
 Reading dan writing data from multi datasource
 - MySQL
 - XML
